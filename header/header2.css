@@ -1,0 +1,39 @@
+.header2{
+    margin: 10px;
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    padding: 1rem;
+ width: 1440px;
+ height: 0px;
+ position: relative;
+}
+
+.buscador{
+    width: 507px;
+    height: 48px;
+    background-color: #F3F9FB;
+    margin: 5px;
+    border-radius: 1rem;
+    gap: 5rem;
+    border: none;
+    padding: 0.5rem 1rem;
+    position: absolute;
+    left: 50rem;
+}
+
+
+.inicio,
+.final {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+
+
+.txt2 {
+    font-size: 35px ;
+    color: #008ECC;
+}

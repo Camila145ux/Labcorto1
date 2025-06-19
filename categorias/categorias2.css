@@ -1,0 +1,225 @@
+.seccion2 {
+    width: 1440px;
+    margin-top: 10rem;
+    padding: 0 15 rem;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.telefonos{
+    width: 1440px;
+    padding: 5rem;
+    flex-direction: column;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.titulo2{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+ 
+    gap: 1rem;
+}
+
+.txt3,
+.txt4,
+.view{
+    font-size: 24px;
+    margin: 0;
+    color: gray ;
+
+}
+
+.txt4{
+    color: #008ECC;
+}
+
+.linea {
+  width: 1440px;      
+  height: 4px;
+  background-color: gray;
+  margin-top: 0.5rem;    
+  position: absolute;
+  top: 71rem;
+}
+
+/* ---------CATEGORIAS ------- */
+.categorias {
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+  padding: 3rem;
+  margin-left: 20rem;
+}
+
+/* CELULAR */
+.category1 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.circulo {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  border: 2px solid blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  background-color: #f5f5f5;
+}
+
+.circulo img {
+  width: 52px;
+  height: 98px;
+
+}
+
+/* Crema */
+.category2 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.circulo2 {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  border: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  background-color: #f5f5f5;
+}
+
+.circulo2 img {
+  width: 52px;
+  height: 98px;
+
+}
+
+/* Lavadora */
+.category3 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.lavadora {
+  padding: 1rem;
+}
+
+.nombre3 {
+  display: flex;
+  align-items: center;
+}
+
+/* sillon */
+.category4 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.sillon {
+  padding: 1rem;
+}
+
+.nombre4 {
+  display: flex;
+  align-items: center;
+}
+
+/* Reloj */
+.category5 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.circulo5 {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  border: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  background-color: #f5f5f5;
+}
+
+.circulo5 img {
+  width: 52px;
+  height: 98px;
+}
+
+.nombre5 {
+  display: flex;
+  align-items: center;
+}
+
+/*planta*/
+.category6 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.circulo6 {
+  width: 132px;
+  height: 132px;
+  border-radius: 50%;
+  border: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 10px;
+  background-color: #f5f5f5;
+}
+
+.circulo6 img {
+  width: 52px;
+  height: 98px;
+}
+
+.nombre6 {
+  display: flex;
+  align-items: center;
+}
+
+/*Collar*/
+.category7 {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+}
+.nombre7 {
+  display: flex;
+  align-items: center;
+}
+
+.collar {
+  padding: 1rem;
+}
+

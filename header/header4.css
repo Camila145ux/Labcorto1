@@ -1,0 +1,109 @@
+.header4{
+    margin-left: -5rem;
+}
+
+.rectangulo {
+    width: 1201px;
+    height: 316px;
+    left: 120px;
+    border-radius: 16px;
+    background-color: #212844;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: monospace;
+    position: relative;
+    display: flex;
+}
+
+.imagenes,
+.fondo{
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 350px;
+}
+.fondo {
+    margin-left: 815px;
+}
+
+.reloj{
+    position: absolute;
+    display: flex;
+    width: 268px;
+    height: 270px;
+    left: 75rem;
+
+}
+
+.cir1,
+.cir2{
+    width: 86px ;
+    height: 86px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    position: absolute;
+    background-color: #F3F9FB;
+
+}
+
+.cir2{
+top: 12rem;
+left: -4rem;
+}
+
+.cir1{
+    left: 115rem;
+}
+
+
+.reloj {
+    position: absolute;
+    right: -75rem;
+    height: 250px;
+}
+
+.fondo {
+    position: absolute;
+    right: -80rem;
+    top: 0;
+    height: 316px;
+}
+
+
+.puntos {
+    position: absolute;
+    left: 100px;
+    top: 25rem;
+}
+
+.textos {
+    margin-left: 10rem;
+    font-family: monospace;
+    color: white;
+    font-size: 1rem;
+}
+
+
+.sub {
+    font-size: 2rem;
+    color: white;
+    font-family: monospace;
+    padding: 1rem;
+}
+
+.titulo {
+    font-size: 6rem;
+    color: white;
+    font-family: monospace;
+}
+
+
+.oferta {
+    font-size: 2rem;
+    margin-top: 0.5rem;
+    font-family: monospace;
+    color: white;
+}
