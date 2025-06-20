@@ -1,0 +1,94 @@
+.electronicos {
+    width: 1440px;
+    margin-top: 10rem;
+    padding: 0 15rem;
+}
+
+.electronics {
+    width: 1440px;
+    margin-top: 10rem;
+    padding: 0 13rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 6rem;
+    gap: 3rem;
+}
+
+.puntoselec{
+    position: absolute;
+    top: 25rem;
+}
+
+.xiomi, 
+.realme{
+    position: absolute;
+}
+
+.xiomi{
+    top: 7rem;
+    left: 110rem;
+}
+
+.realme{
+    top: 7rem;
+    left: 66rem;
+}
+
+.titulo3{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 1rem;
+}
+
+.txt5,
+.txt6{
+    font-size: 24px;
+    margin: 0;
+    color: gray ;
+
+}
+
+.txt6{
+    color: #008ECC;
+}
+
+.linea4 {
+  width: 1440px;      
+  height: 4px;
+  background-color: gray;
+  margin-top: 0.5rem;    
+  position: absolute;
+  top: 158rem;
+}
+
+.view4{
+  font-size: 24px;
+  margin-left: 101rem;
+  color: gray;
+  cursor: pointer;
+}
+
+.cuadro1{
+    width: 389px;
+    height: 207px;
+    background-color: #414141;
+    border-radius: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.cuadro2{
+    width: 389px;
+    height: 207px;
+    background-color:#F6DE8D;
+    border-radius: 2rem;
+}
+.cuadro3{
+    width: 389px;
+    height: 207px;
+    background-color: #FFECDF;
+    border-radius: 2rem;
+}

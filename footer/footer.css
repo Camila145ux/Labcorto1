@@ -1,83 +1,67 @@
-.footer {
+
+.pie{
     width: 1440px;
     height: 592px;
-    top: 2445px;
     background-color: #008ECC;
+    display: flex;
+}
+.nombre1 {
+    font-size: 40px;
+    margin-top: 25px;
+    margin-left: 120px;
     color: white;
-    font-family: 'Courier New', Courier, monospace;
 }
 
-.mega {
-    width: 15rem;
-    height: 3rem;
-    margin-left: 5rem;
-    font-size: 8rem;
-    margin-top: 3rem;
-    padding: 2rem;
-
+.texto1, .texto2 {
+    font-size: 15px;
+    margin-top: 25px;
+    margin-left: 120px;
+    color: white;
 }
 
-.contacto {
-    margin-left: 8rem;
-    font-size: 2rem;
-    width: 15rem;
-    height: 1.5rem;
-    margin-top: 7rem;
+.icono1, .icono2 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 25px;
+    margin-left: 120px;
 }
 
-.watt {
-    margin-left: 8rem;
-    margin-top: 30px;
-    margin-bottom: 60px;
-
+.icono3 {
+    margin-top: 25px;
+    margin-left: 120px;
 }
 
-.call {
-    margin-left: -20rem;
-    padding: 1rem;
+.lista1, .lista2 {
+    margin-top: 10px;
+    margin-left: 85px;
+    font-size: 16px;
 }
 
-.Download {
-    width: 200px;
-    height: 20px;
-    font-size: 20px;
-    margin-left: 8rem;
-    margin-top: 1rem;
+.item1 {
+    margin-bottom: 10px;
+    margin-top: 55px;
+    color: white;
 }
 
-.apps {
-    margin-top: 3rem;
-    margin-left: 8rem;
+.item2 {
+    margin-bottom: 15px;
+    color: white;
 }
 
-.list1 {
-    margin-top: -55rem;
-    margin-left: 5rem;
-    margin-bottom: -2px;
+.encabezado1, .encabezado2 {
+    margin-left: 65px;
+    font-size: 16px;
+    color: white;
+    margin-top: 35px;
 }
 
-.list2 {
-    margin-bottom: 7rem;
-    margin-top: -65rem;
-    margin-left: 5rem;
+.barra1, .barra2 {
+    margin-left: 70px;
 }
 
-.deco {
+.imagen1 {
+    height: 346px;
     position: absolute;
-    margin-bottom: 3rem;
-    margin-left: 10.3rem;
-    margin-top: -35rem;
-}
-
-.lineF {
-    margin-left: 8.5rem;
-    margin-top: 5rem;
-}
-
-.derecho {
-    margin-top: 2rem;
-    width: 800px;
-    height: 20px;
-    font-size: 22px;
-    margin-left: 35rem;
+    top: 266rem;
+    left: 166rem;
 }

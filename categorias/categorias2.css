@@ -7,9 +7,9 @@
 }
 
 
-.telefonos{
+.telefonosc{
     width: 1440px;
-    padding: 5rem;
+    padding: 10rem;
     flex-direction: column;
     flex-direction: row;
     align-items: flex-start;
@@ -17,6 +17,7 @@
 
 .titulo2{
     display: flex;
+
     align-items: flex-start;
     flex-direction: row;
  
@@ -25,12 +26,29 @@
 
 .txt3,
 .txt4,
-.view{
+.view2{
     font-size: 24px;
     margin: 0;
     color: gray ;
+}
+
+.view2{
+  font-size: 24px;
+  margin-left: 98rem;
+  color: gray;
+  cursor: pointer;
+}
+
+.linea2 {
+  width: 1440px;      
+  height: 4px;
+  background-color: gray;
+  margin-top: 0.5rem;    
+  position: absolute;
+  top: 112rem;
 
 }
+
 
 .txt4{
     color: #008ECC;
@@ -42,7 +60,7 @@
   background-color: gray;
   margin-top: 0.5rem;    
   position: absolute;
-  top: 71rem;
+  top: 115rem;
 }
 
 /* ---------CATEGORIAS ------- */
@@ -50,7 +68,7 @@
   display: flex;
   gap: 5rem;
   align-items: center;
-  padding: 3rem;
+  padding: 9rem;
   margin-left: 20rem;
 }
 
